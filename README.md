@@ -1,5 +1,6 @@
 # 💪 Fit-Saathi: Your Ultimate AI Fitness Coach & Buddy 🤖🏃‍♀️  
-> *A multilingual AI agent for personalized, motivating, and weather-aware fitness guidance.*
+> *It isn’t just a bot—it’s a mindset shift.
+Designed to interact like a real coach, it brings consistency, engagement, and adaptability into your workouts, helping you unlock real results with digital guidance.*
 
 ![Banner](Images/Fit_saathi.png)
 
@@ -115,10 +116,9 @@ FitnessBuddy_Project/
 │ ├── Overview_build_agent.png
 │ ├── Resources.png
 │ └── Tools_used.png
-│
-├── Agent_deployment_notes.txt
-├── Agent_standard_notes.txt
-├── Fitness_buddy_project.pptx
+├── Agent_deployment_notebook.ipynb
+├── Agent_standard_notebook.ipynb
+├── Fitness_buddy_project_ppt.pdf
 └── README.md
 ```
 
