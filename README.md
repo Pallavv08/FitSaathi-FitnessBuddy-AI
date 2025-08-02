@@ -1,4 +1,4 @@
-# 💪 Fit-Saathi: Your Ultimate AI Fitness Buddy 🤖🏃‍♀️  
+# 💪 Fit-Saathi : Your Ultimate AI Fitness Buddy 🤖🏃‍♀️  
 > *It isn’t just a bot—it’s a mindset shift.
 Designed to interact like a real coach, it brings consistency, engagement, and adaptability into your workouts, helping you unlock real results with digital guidance.*
 
