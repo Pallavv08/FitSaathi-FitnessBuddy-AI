@@ -123,13 +123,6 @@ FitnessBuddy_Project/
 
 > This project was completed under the **IBM x Edunet Foundation AI & Cloud Virtual Internship (2025)** to apply advanced LLMs in real-world deployment scenarios using IBM tools and services.
 
----
-
-## 📂 Supporting Docs
-
-- 📄 [`Agent_standard_notes.txt`](Agent_standard_notes.txt): Instructions used to train the agent  
-- 📄 [`Agent_deployment_notes.txt`](Agent_deployment_notes.txt): Watson + Cloud deployment config  
-- 📊 [`Fitness_buddy_project.pptx`](Fitness_buddy_project.pptx): Project Presentation
 
 ---
 
