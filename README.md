@@ -77,6 +77,9 @@ Trained on real-life use cases, built using cutting-edge LLMs, and enriched with
 ### 🚀 Final Deployment View  
 ![Deployed](Images/Deployed_final_view.png)
 
+### 🛠️ Agent Lab Overview
+![Deployed](Images/Overview_build_agent.png)
+
 ### 🔗 Resource Snapshots  
 ![Resources](Images/Resources.png)
 
@@ -88,7 +91,7 @@ Supports 10+ languages including 🇮🇳 Hindi, 🇫🇷 French, 🇪🇸 Spani
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Inbuilt Tools Used
 
 ![Tools](Images/Tools_used.png)
 
