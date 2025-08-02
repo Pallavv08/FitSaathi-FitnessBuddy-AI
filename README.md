@@ -1,20 +1,102 @@
-# FitSaathi - FitnessBuddy AI 🤖🏋️
+# 💪 FitSaathi – FitnessBuddy AI 🤖🏋️‍♀️
 
-> A virtual fitness assistant built using UBM Cloud, part of IBM x Edunet AI & Cloud Internship.
+![Fit Saathi](Images/Fit_saathi.png)
 
-## 📌 Overview
-FitSaathi and FitnessBuddy are intelligent virtual agents designed to promote fitness awareness and mental well-being. The solution provides personalized interaction and support in multiple languages via voice/text interface.
+**FitSaathi** is a smart virtual assistant designed to help users achieve their fitness goals using an AI-powered, multilingual chatbot.
 
-## 🔧 Tools & Technologies Used
-- IBM Watson Assistant
-- IBM Cloud Functions
-- UBM Cloud
-- Node.js
-- HTML/CSS
-- Git & GitHub
-- VS Code
+---
 
-## 📂 Project Structure
+## 🔹 Project Overview
+
+![Overview](Images/Overview_build_agent.png)
+
+FitSaathi guides users through workouts, nutrition tips, and healthy habits. Built and deployed using **IBM Watson Assistant**, this project was developed under the **IBM x Edunet AI & Cloud Internship Program**.
+
+---
+
+## 🧠 Capabilities
+
+- Multilingual interaction  
+- Instructional guidance  
+- Personalized agent responses  
+- Real-time deployment via web interface
+
+---
+
+## 🛠️ Tools Used
+
+![Tools Used](Images/Tools_used.png)
+
+- IBM Watson Assistant  
+- Watson Discovery  
+- IBM Cloud  
+- Node.js  
+- Web Deployment tools
+
+---
+
+## 🌍 Multilingual Support
+
+![Multilingual](Images/MultiLingual.png)
+
+Supports responses in **multiple languages**, making the bot more inclusive and accessible.
+
+---
+
+## 🔎 Agent Instruction Preview
+
+![Instruction Preview](Images/Instruction_preview.png)
+
+The agent can instruct workouts, provide motivation, and offer healthy lifestyle tips.
+
+---
+
+## 🧑‍💻 Agent Preview
+
+![Agent Preview](Images/Agent_preview.png)
+
+This is how the bot looks and behaves when interacting with users.
+
+---
+
+## 🚀 Final Deployed View
+
+![Deployed View](Images/Deployed_final_view.png)
+
+Hosted and deployed via IBM Cloud with real-time response handling.
+
+---
+
+## 📂 Resources
+
+![Resources](Images/Resources.png)
+
+---
+
+## 📑 Documentation & Snippets
+
+- [`Fitness_buddy_project.pptx`](./Fitness_buddy_project.pptx): Project Presentation  
+- [`Agent_standard_notes.txt`](./Agent_standard_notes.txt): Standard Dialogue Notes  
+- [`Agent_deployment_notes.txt`](./Agent_deployment_notes.txt): Deployment Instructions  
+
+---
+
+## 🙌 Acknowledgements
+
+This project was completed as a part of the **IBM x Edunet Foundation AI & Cloud Virtual Internship**, aimed at empowering students with industry-relevant skills.
+
+---
+
+## 🧠 Contributors
+
+> 👤 Pallav Maheshwari – B.Tech Artificial Intelligence & Data Science  
+> 📍 JECRC Foundation  
+> 
+
+---
+
+## 🔗 Repository Structure
+
 FitnessBuddy_Project/
 │
 ├── Images/
@@ -31,48 +113,3 @@ FitnessBuddy_Project/
 ├── Agent_standard_notes.txt
 ├── Fitness_buddy_project.pptx
 └── README.md
-
-## 🧠 Features
-- Multilingual support (Hindi + English)
-- Voice and chat interface
-- Nutrition and workout advice
-- Mental health awareness
-- Personalized interaction
-
-## 📸 Bot Previews
-
-| FitSaathi Agent UI | Multi-lingual Support |
-|--------------------|-----------------------|
-| ![FitSaathi](Images/Fit_saathi.png) | ![MultiLingual](Images/MultiLingual.png) |
-
-| Agent Deployment | Tools Used |
-|------------------|-------------|
-| ![Agent Preview](Images/Agent_preview.png) | ![Tools](Images/Tools_used.png) |
-
-## 🎯 End Users
-- Students
-- Working professionals
-- Fitness enthusiasts
-- Remote workers
-
-## 📈 Future Scope
-- Integration with wearable devices
-- Mobile app version
-- Real-time fitness tracking
-- Yoga and mindfulness sessions
-- AI-powered personalized plans
-
-## 🚀 How to Run Locally
-1. Clone this repo:
-git clone https://github.com/Pallavv08/FitSaathi-FitnessBuddy-AI.git
-2. Open in VS Code.
-3. View HTML/Node.js/Watson setup in folders (if applicable).
-
-## ☁️ Internship Credit
-This project was completed as part of the **IBM x Edunet Foundation AI and Cloud Internship Program**.
-
----
-
-
-
-
