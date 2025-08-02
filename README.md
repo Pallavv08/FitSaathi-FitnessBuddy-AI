@@ -103,6 +103,7 @@ Supports 10+ languages including 🇮🇳 Hindi, 🇫🇷 French, 🇪🇸 Spani
 ---
 
 ## 📦 Project Structure
+```
 FitnessBuddy_Project/
 │
 ├── Images/
@@ -119,7 +120,7 @@ FitnessBuddy_Project/
 ├── Agent_standard_notes.txt
 ├── Fitness_buddy_project.pptx
 └── README.md
-
+```
 
 
 
