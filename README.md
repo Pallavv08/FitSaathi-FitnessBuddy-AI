@@ -112,7 +112,7 @@ FitnessBuddy_Project/
 ![Agent Preview](Images/Agent_preview.png)
 
 ### 🚀 Final Deployment View  
-![Deployed](Images/Deployed_final _view.png)
+![Deployed](Images/Deployed_final_view.png)
 
 ### 🔗 Resource Snapshots  
 ![Resources](Images/Resources.png)
