@@ -61,12 +61,25 @@
 - "Lazy Sunday" bed stretches or 5-min mobility flows
 
 ---
+## 📸 Visual Overview
+
+### 🔧 Agent Configuration  
+![Instruction Preview](Images/Instruction_preview.png)
+
+### 🤖 Agent in Action  
+![Agent Preview](Images/Agent_preview.png)
+
+### 🚀 Final Deployment View  
+![Deployed](Images/Deployed_final_view.png)
+
+### 🔗 Resource Snapshots  
+![Resources](Images/Resources.png)
 
 ## 🌍 Multilingual Agent Support
 
 ![Multilingual](Images/MultiLingual.png)
 
-Supports 12+ languages including 🇮🇳 Hindi, 🇫🇷 French, 🇪🇸 Spanish, 🇯🇵 Japanese — making fitness accessible globally.
+Supports 10+ languages including 🇮🇳 Hindi, 🇫🇷 French, 🇪🇸 Spanish, 🇯🇵 Japanese — making fitness accessible globally.
 
 ---
 
@@ -74,10 +87,17 @@ Supports 12+ languages including 🇮🇳 Hindi, 🇫🇷 French, 🇪🇸 Spani
 
 ![Tools](Images/Tools_used.png)
 
+
+---
+
+## 🛠️ IBM Cloud Services Used
+
 - IBM Watson Assistant  
-- IBM Cloud  
-- Python (for logic & data)  
-- HTML/CSS + JS (for deployment)  
+- IBM Cloud
+- IBM Cloud Watsonx AI Studio
+- IBM Cloud Watsonx AI runtime
+- IBM Cloud Object Storage
+- Inbuilt Tools - Google Search, DuckDuckGo , Document Search, Weather, WebCrawler
 - Granite-3.3-8B-Instruct (LLM model by IBM)
 
 ---
@@ -101,23 +121,7 @@ FitnessBuddy_Project/
 └── README.md
 
 
----
 
-## 📸 Visual Overview
-
-### 🔧 Agent Configuration  
-![Instruction Preview](Images/Instruction_preview.png)
-
-### 🤖 Agent in Action  
-![Agent Preview](Images/Agent_preview.png)
-
-### 🚀 Final Deployment View  
-![Deployed](Images/Deployed_final_view.png)
-
-### 🔗 Resource Snapshots  
-![Resources](Images/Resources.png)
-
----
 
 ## 🧾 Internship Credit
 
