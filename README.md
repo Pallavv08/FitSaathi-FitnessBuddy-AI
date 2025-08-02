@@ -8,9 +8,13 @@ Designed to interact like a real coach, it brings consistency, engagement, and a
 
 ## 🔍 About the Project
 
-**Fit-Saathi**, also known as **FitnessBuddy**, is a powerful **AI agent** designed to deliver intelligent, adaptive, and supportive fitness coaching through natural conversation. It acts like your **trusted gym partner**, trained to respond based on your goals, preferences, and even the weather!
 
-> ✅ Built and deployed as part of the **IBM x Edunet Foundation AI & Cloud Internship.**
+**Fit-Saathi**, also known as **FitnessBuddy**, is a powerful **AI agent** designed to revolutionize how individuals interact with fitness and health advice.  
+It goes beyond pre-set responses—it understands intent, adapts to your goals, and provides consistent support like a real fitness companion.
+
+Trained on real-life use cases, built using cutting-edge LLMs, and enriched with interactive agent tools, **Fit-Saathi** is your **always-available digital coach**. Whether you're a beginner or a seasoned fitness enthusiast, it meets you where you are and grows with you.
+
+> ✅ Built and deployed as part of the **IBM x Edunet Foundation AI & Cloud Internship**.
 
 ---
 
