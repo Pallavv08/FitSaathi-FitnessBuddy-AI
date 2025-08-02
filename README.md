@@ -1,102 +1,88 @@
-# 💪 FitSaathi – FitnessBuddy AI 🤖🏋️‍♀️
+# 💪 Fit-Saathi: Your Ultimate AI Fitness Coach & Buddy 🤖🏃‍♀️  
+> *A multilingual AI agent for personalized, motivating, and weather-aware fitness guidance.*
 
-![Fit Saathi](Images/Fit_saathi.png)
-
-**FitSaathi** is a smart virtual assistant designed to help users achieve their fitness goals using an AI-powered, multilingual chatbot.
-
----
-
-## 🔹 Project Overview
-
-![Overview](Images/Overview_build_agent.png)
-
-FitSaathi guides users through workouts, nutrition tips, and healthy habits. Built and deployed using **IBM Watson Assistant**, this project was developed under the **IBM x Edunet AI & Cloud Internship Program**.
+![Banner](Images/Fit_saathi.png)
 
 ---
 
-## 🧠 Capabilities
+## 🔍 About the Project
 
-- Multilingual interaction  
-- Instructional guidance  
-- Personalized agent responses  
-- Real-time deployment via web interface
+**Fit-Saathi**, also known as **FitnessBuddy**, is a powerful **AI agent** designed to deliver intelligent, adaptive, and supportive fitness coaching through natural conversation. It acts like your **trusted gym partner**, trained to respond based on your goals, preferences, and even the weather!
+
+> ✅ Built and deployed as part of the **IBM x Edunet Foundation AI & Cloud Internship.**
+
+---
+
+## 🧠 Agent Persona & UX Guidelines
+
+**Fit-Saathi’s Personality:**
+- 🎯 **Goal-Oriented**: Weight loss, muscle gain, mobility, etc.
+- 🧘 **Supportive & Witty**: Encourages positive habits & affirms progress.
+- 🌎 **Multilingual**: Talks in your language (supports 12+).
+- 💬 **Conversational**: Avoids jargon, keeps it human.
+
+**Tone & Interaction Design:**
+- ✅ Bullet points for complex responses
+- ✅ Voice-friendly short sentences
+- ✅ Light use of emojis (e.g., "You’ve got this! 💪")
+
+---
+
+## 🧩 Core Functions
+
+### 1. 🏋️‍♂️ Workouts & Training Plans
+- Personalized by goal, level, time, equipment
+- Supports rehab-safe and pregnancy-safe routines
+- Always includes warm-up/cool-down tips
+
+### 2. 🍎 Nutrition & Diet
+- Tailored by goal, diet type (veg/vegan/etc.), and budget
+- Meal hacks, cheat-day compensations, hydration reminders
+
+### 3. 📊 Motivation & Tracking
+- 30-day challenges, habit stacking, daily affirmations
+- Gamified badges (e.g., "Hydration Hero")
+
+### 4. 👟 Fitness Gear Advice
+- Budget-friendly gear recs, climate-smart clothing tips
+
+### 5. 🧠 Mental Wellness
+- Quick stress relief routines, sleep improvement hacks
+
+### 6. 🚑 Injury & Safety
+- First aid tips (e.g., RICE), red flags, overtraining signs
+
+### 7. 🌤️ Weather-Aware Activity Suggestions
+- Real-time outdoor activity checks using weather tool  
+  Example: *"It’s 36°C in Delhi — opt for indoor cycling!"*
+
+### 8. 🏘️ Local + Lazy Hacks
+- Regional food tips
+- "Lazy Sunday" bed stretches or 5-min mobility flows
+
+---
+
+## 🌍 Multilingual Agent Support
+
+![Multilingual](Images/MultiLingual.png)
+
+Supports 12+ languages including 🇮🇳 Hindi, 🇫🇷 French, 🇪🇸 Spanish, 🇯🇵 Japanese — making fitness accessible globally.
 
 ---
 
 ## 🛠️ Tools Used
 
-![Tools Used](Images/Tools_used.png)
+![Tools](Images/Tools_used.png)
 
 - IBM Watson Assistant  
-- Watson Discovery  
 - IBM Cloud  
-- Node.js  
-- Web Deployment tools
+- Python (for logic & data)  
+- HTML/CSS + JS (for deployment)  
+- Granite-3.3-8B-Instruct (LLM model by IBM)
 
 ---
 
-## 🌍 Multilingual Support
-
-![Multilingual](Images/MultiLingual.png)
-
-Supports responses in **multiple languages**, making the bot more inclusive and accessible.
-
----
-
-## 🔎 Agent Instruction Preview
-
-![Instruction Preview](Images/Instruction_preview.png)
-
-The agent can instruct workouts, provide motivation, and offer healthy lifestyle tips.
-
----
-
-## 🧑‍💻 Agent Preview
-
-![Agent Preview](Images/Agent_preview.png)
-
-This is how the bot looks and behaves when interacting with users.
-
----
-
-## 🚀 Final Deployed View
-
-![Deployed View](Images/Deployed_final_view.png)
-
-Hosted and deployed via IBM Cloud with real-time response handling.
-
----
-
-## 📂 Resources
-
-![Resources](Images/Resources.png)
-
----
-
-## 📑 Documentation & Snippets
-
-- [`Fitness_buddy_project.pptx`](./Fitness_buddy_project.pptx): Project Presentation  
-- [`Agent_standard_notes.txt`](./Agent_standard_notes.txt): Standard Dialogue Notes  
-- [`Agent_deployment_notes.txt`](./Agent_deployment_notes.txt): Deployment Instructions  
-
----
-
-## 🙌 Acknowledgements
-
-This project was completed as a part of the **IBM x Edunet Foundation AI & Cloud Virtual Internship**, aimed at empowering students with industry-relevant skills.
-
----
-
-## 🧠 Contributors
-
-> 👤 Pallav Maheshwari – B.Tech Artificial Intelligence & Data Science  
-> 📍 JECRC Foundation  
-> 
-
----
-
-## 🔗 Repository Structure
-
+## 📦 Project Structure
 FitnessBuddy_Project/
 │
 ├── Images/
@@ -113,3 +99,64 @@ FitnessBuddy_Project/
 ├── Agent_standard_notes.txt
 ├── Fitness_buddy_project.pptx
 └── README.md
+
+
+---
+
+## 📸 Visual Overview
+
+### 🔧 Agent Configuration  
+![Instruction Preview](Images/Instruction_preview.png)
+
+### 🤖 Agent in Action  
+![Agent Preview](Images/Agent_preview.png)
+
+### 🚀 Final Deployment View  
+![Deployed](Images/Deployed_final_view.png)
+
+### 🔗 Resource Snapshots  
+![Resources](Images/Resources.png)
+
+---
+
+## 🧾 Internship Credit
+
+> This project was completed under the **IBM x Edunet Foundation AI & Cloud Virtual Internship (2025)** to apply advanced LLMs in real-world deployment scenarios using IBM tools and services.
+
+---
+
+## 📂 Supporting Docs
+
+- 📄 [`Agent_standard_notes.txt`](Agent_standard_notes.txt): Instructions used to train the agent  
+- 📄 [`Agent_deployment_notes.txt`](Agent_deployment_notes.txt): Watson + Cloud deployment config  
+- 📊 [`Fitness_buddy_project.pptx`](Fitness_buddy_project.pptx): Project Presentation
+
+---
+
+## 🧠 Future Scope
+
+- Add voice interface using Web Speech API  
+- Build a progressive web app (PWA)  
+- Sync with wearable fitness data (like Fitbit/Apple Health)  
+- Expand to more Indian languages  
+- Gamify the challenge system
+
+---
+
+## 🤝 Acknowledgements
+
+- **IBM Research** – Granite Model Team  
+- **Edunet Foundation** – Internship & guidance  
+- **Pallav Maheshwari** – Project Developer  
+- **JECRC Foundation** – Academic support
+
+---
+
+## 📌 GitHub Repo
+
+> [`FitSaathi-FitnessBuddy-AI`](https://github.com/Pallavv08/FitSaathi-FitnessBuddy-AI)
+
+---
+
+
+
